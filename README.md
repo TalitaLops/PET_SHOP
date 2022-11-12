@@ -10,5 +10,5 @@ Website de Pet shop criado para a aula de HTML, CSS e JS. Inspirado no site de @
 
 ##
 <p align="center">
-  <img src=""
+  <img src="https://github.com/TalitaLops/PET_SHOP/blob/main/site.png?raw=true">
 </p>
