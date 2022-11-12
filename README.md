@@ -12,3 +12,12 @@ Website de Pet shop criado para a aula de HTML, CSS e JS. Inspirado no site de @
 <p align="center">
   <img src="https://github.com/TalitaLops/PET_SHOP/blob/main/site.png?raw=true">
 </p>
+
+https://pet-shop-do-seu-pet.netlify.app/
+ ##
+   `Projeto Finalizado` :heavy_check_mark: 
+ ##
+  <div>
+  <a href = "mailto:talitalopessilva.2020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/talita--lopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
